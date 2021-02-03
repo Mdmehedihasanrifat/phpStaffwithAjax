@@ -30,7 +30,7 @@ input[type="submit"]  {
 	margin: 50px auto 0px;
 
 }
-
+#user-img img{}
 .wrap-table {
 	width: 1000px;
 	margin: 50px auto 0px;
@@ -53,4 +53,11 @@ input[type="submit"]  {
 .wrap-table table tbody tr td:last-child{
 	text-align: right;
 	width: 160px;
+}
+.form-group a #remove_photo{
+
+	display: none;
+	color:white;
+	background: #b70d0d;
+	border-radius: 5px;
 }

@@ -1,6 +1,6 @@
 <?php
 
-    namespace Ura\Dhura\Support;
+    namespace App\Support;
 
     use mysqli;
 
@@ -14,7 +14,7 @@
         private $host = 'localhost';
         private $usr = 'root';
         private $pass = '';
-        private $db = 'astaff';
+        private $db = 'staff';
         private $connection;
 
 
@@ -75,6 +75,11 @@
             }else{
                 return false;
             }
+        }
+        public function showSingle($tbl,$id){
+
+            return $this->connection()->query("select * from $tbl where id='$id' ");
+
         }
 
 

@@ -1,7 +1,7 @@
 <?php
     include_once "../vendor/autoload.php";
 
-    use Ura\Dhura\Controller\Staff;
+    use App\Controller\Staff;
 
 
 

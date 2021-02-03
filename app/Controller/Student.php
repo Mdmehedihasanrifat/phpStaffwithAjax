@@ -1,15 +1,13 @@
 <?php
 
-    namespace Ura\Dhura\Controller;
+    namespace App\Controller;
 
-    use Ura\Dhura\Support\Database;
-
+    use App\Support\Database;
 
     /**
      * Class Student
-     * @package Ura\Dhura\Controller
+     * @package App\Controller
      */
-
     class Student extends Database {
 
         /**

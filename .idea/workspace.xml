@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62a686da-a7bf-44ab-b499-92a024401288" name="Default Changelist" comment="" />
+    <list default="true" id="62a686da-a7bf-44ab-b499-92a024401288" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ajax_template/staff_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax_template/staff_show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_template/staff_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_template/staff_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_template/staff_all.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_template/staff_all.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controller/Staff.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Staff.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controller/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Support/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Support/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/0d1bef85d3dbfd94757ea51be62e240f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/0d3112ae82dc115e6124412dec68997b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/5972bcffa52727873aaab060b9b1f2197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/77d8ebcbf0edb30e77cc3474bb41b4f113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/bc8fcf3919faf92009d4101b508dedbf22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/c3ab98159b9d94eb388b7211ce1e4c0310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/cc33f88ab99dd523f03327f5989ef69d21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/d488693c7165f4cb46f75217c935338123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,21 +76,37 @@
       <workItem from="1604849976528" duration="1990000" />
       <workItem from="1605191412249" duration="5147000" />
       <workItem from="1606055411516" duration="5497000" />
-      <workItem from="1608383994414" duration="2519000" />
+      <workItem from="1608383994414" duration="3802000" />
+      <workItem from="1608475670716" duration="1337000" />
+      <workItem from="1608901095097" duration="1981000" />
+      <workItem from="1608903903527" duration="1515000" />
+      <workItem from="1609247370762" duration="594000" />
+      <workItem from="1609341371330" duration="585000" />
+      <workItem from="1609648893930" duration="7303000" />
+      <workItem from="1609738931710" duration="1186000" />
+      <workItem from="1610176212133" duration="4315000" />
+      <workItem from="1610212872060" duration="6331000" />
+      <workItem from="1610475087724" duration="591000" />
+      <workItem from="1610603110800" duration="386000" />
+      <workItem from="1610690406221" duration="6775000" />
+      <workItem from="1611324933930" duration="14405000" />
+      <workItem from="1611891801348" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="608" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606060319655">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="608" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1606060319655" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1604851779511">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604851779511" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
